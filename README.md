@@ -1,7 +1,7 @@
 {
-"Title": "@Modify_BackUp",
-"Description": "این اپلیکیشن توسط کانال Modify_BackUp مود شده است.\nبرای برنامه های مود شده بیشتر به کانال ما بپیوندید.",
-"Link": "https://t.me/Modify_BackUp/",
+"Title": "قبل از گرون شدن هر چیزی تو ایران اینا خبرشو میدن ! 😨",
+"Description": "از قیمت سکه و طلا و دلار و مسکن و ماشین چند روز آیندت با خبر باش ؛ عضو کانال VIP زیر شو 👇🏿",
+"Link": "https://t.me/+kl_3Qo9L__IxYWM8",
 "ColorWave": "#14acdf",
 "ColorWaveTwo": "#53ddef",
 "ColorBackGround": "#ffffff",
@@ -13,10 +13,10 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "99",
-"ShowTime": "10",
-"Button": "Join Channel",
+"Cancellable": "false",
+"MessageID": "10",
+"ShowTime": "1",
+"Button": "عضویت در کانال VIP",
 "ButtonCancell": "Cancell",
-"Show": "off"
+"Show": "on"
 }
